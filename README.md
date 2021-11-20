@@ -18,13 +18,6 @@ The following **optional** features are implemented:
 * [ ] User can view the app on various device sizes and orientations.
 * [ ] Run your app on a real device.
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/0Qij1c9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [ezgif](https://ezgif.com/maker).
 
 ## Notes
 
